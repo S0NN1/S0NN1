@@ -42,9 +42,7 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 ## My activity
 
 <!--START_SECTION:waka-->
-
 ```text
 No Activity tracked this Week
 ```
-
 <!--END_SECTION:waka-->
