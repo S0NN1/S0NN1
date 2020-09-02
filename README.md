@@ -1,6 +1,6 @@
 ### 🥝 Welcome coders I'm Nicolò Sonnino, Sonny to my friends.
 
-![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Fnicolosonnino.it)
+[![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Fnicolosonnino.it)](https://nicolosonnino.it)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=S0NN1.S0NN1)
 
 Bachelor student in Computer Science Engineering at Politecnico di Milano
