@@ -36,7 +36,7 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <p align="center">
   Last refresh: 
-  <b>2020-09-02T08:27:11Z</b>
+  <b>2020-09-02T08:27:28Z</b>
 </p>
 
 ## My activity
