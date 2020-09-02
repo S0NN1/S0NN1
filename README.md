@@ -36,13 +36,15 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <p align="center">
   Last refresh: 
-  <b>2020-09-01T17:41:52Z</b>
+  <b>2020-09-02T00:14:27Z</b>
 </p>
 
 ## My activity
 
 <!--START_SECTION:waka-->
+
 ```text
 No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
