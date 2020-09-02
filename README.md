@@ -27,25 +27,12 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## My repos
-
-## ⭐️ 7 📦 S0NN1/ing-sw-2020-piemonti-pirovano-sonnino
-⭐️ 2 📦 S0NN1/.dotfiles
-⭐️ 1 📦 PiroX4256/tutto_e_numero_NFC_system
-⭐️ 1 📦 S0NN1/4chan-dl
-
-<p align="center">
-  Last refresh: 
-  <b>2020-09-02T08:27:28Z</b>
-</p>
-
 ## My activity
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   1 hr 18 mins    ███████████████░░░░░░░░░░   59.44 % 
-Java       38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
-HTML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
