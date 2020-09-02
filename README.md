@@ -42,9 +42,10 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 ## My activity
 
 <!--START_SECTION:waka-->
-
 ```text
-No Activity tracked this Week
+Markdown   1 hr 18 mins    ███████████████░░░░░░░░░░   59.44 % 
+Java       38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
+HTML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
-
 <!--END_SECTION:waka-->
