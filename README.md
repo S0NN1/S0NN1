@@ -36,16 +36,15 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <p align="center">
   Last refresh: 
-  <b>2020-09-02T00:15:03Z</b>
+  <b>2020-09-02T08:26:53Z</b>
 </p>
 
 ## My activity
 
 <!--START_SECTION:waka-->
+
 ```text
-Markdown   1 hr 18 mins    ███████████████░░░░░░░░░░   59.44 % 
-Java       38 mins         ███████▒░░░░░░░░░░░░░░░░░   29.14 % 
-HTML       14 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+No Activity tracked this Week
 ```
+
 <!--END_SECTION:waka-->
