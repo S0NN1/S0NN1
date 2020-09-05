@@ -32,10 +32,10 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-HTML       1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   35.26 % 
-Markdown   1 hr 18 mins    ████████▓░░░░░░░░░░░░░░░░   35.12 % 
-Java       50 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.70 % 
-XML        14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-YAML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+HTML       1 hr 37 mins    ████████▓░░░░░░░░░░░░░░░░   35.25 % 
+Markdown   1 hr 18 mins    ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+Java       1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.95 % 
+CSS        24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+XML        14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 ```
 <!--END_SECTION:waka-->
