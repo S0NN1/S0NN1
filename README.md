@@ -31,7 +31,7 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 <!--START_SECTION:waka-->
 ```text
-Bash         15 mins         )))))))))))))))))))))[!!!   85.01 % 
-Git Config   2 mins          )))!!!!!!!!!!!!!!!!!!!!!!   11.56 % 
+Bash         15 mins         █████████████████████       85.01 % 
+Git Config   2 mins          ███                         11.56 % 
 ```
 <!--END_SECTION:waka-->
