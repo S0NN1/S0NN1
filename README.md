@@ -27,11 +27,5 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
-## My activity
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0NN1&theme=graywhite&show_icons=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
-```text
-Bash         15 mins         █████████████████████       85.01 % 
-Git Config   2 mins          ███                         11.56 % 
-```
-<!--END_SECTION:waka-->
