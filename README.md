@@ -30,7 +30,7 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 
 ## Social
 
-[![Twitter](https://img.shields.io/badge/<@S_0_N_N_Y>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/S_0_N_N_Y)
+[![Twitter](https://img.shields.io/badge/@S0NNY%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/S_0_N_N_Y)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
