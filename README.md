@@ -26,5 +26,4 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang/rust)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S0NN1&theme=graywhite&show_icons=true&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
