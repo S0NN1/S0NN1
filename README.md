@@ -28,5 +28,9 @@ Bachelor student in Computer Science Engineering at Politecnico di Milano
 [![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1)](https://en.wikipedia.org/wiki/JavaScript)
 [![Rust](https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white)](https://github.com/rust-lang/rust)
 
+## Social
+
+[![Twitter](https://img.shields.io/badge/<@S_0_N_N_Y>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/S_0_N_N_Y)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
