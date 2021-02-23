@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Fnicolosonnino.it)](https://nicolosonnino.it)
 
 ## About me
-Hello, I’m Nicolò, Sonny to my friends. I’m almost 23 years old and I’m currently studying Computer Science and Engineering at Politecnico di Mi‑lano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of dramaclass at Binario 7 in Monza.
+Hello, I’m Nicolò, Sonny to my friends. I’m almost 23 years old and I’m currently studying Computer Science and Engineering at Politecnico di Milano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of dramaclass at Binario 7 in Monza.
 
 ## Programming Languages
 
