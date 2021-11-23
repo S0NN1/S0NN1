@@ -4,7 +4,9 @@
 
 
 ## About me 
- I am Nicolò, Sonny to my friends. I’m 23 years old and I’m currently studying Computer Science and Engineering at Politecnico di Milano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of drama class at Binario 7 in Monza. [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yw4xi3dmb4qpxaurbgijlhq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+ I am Nicolò, Sonny to my friends. I’m 23 years old and I’m currently studying Computer Science and Engineering at Politecnico di Milano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of drama class at Binario 7 in Monza. 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yw4xi3dmb4qpxaurbgijlhq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Programming Languages
