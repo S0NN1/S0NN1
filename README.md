@@ -75,5 +75,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0NN1&layout=compact&langs_count=8&theme=synthwave" />
 </a>
 
+
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P07BEGT)
 
