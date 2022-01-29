@@ -5,7 +5,7 @@
 ## About me 
  I am Nicolò, Sonny to my friends. I’m 23 years old and I’m currently studying Computer Science and Engineering at Politecnico di Milano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of drama class at Binario 7 in Monza. 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yw4xi3dmb4qpxaurbgijlhq&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=21yw4xi3dmb4qpxaurbgijlhq&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=false&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%2300d26a&background=true&background_color=%230d1117)](https://github.com/Hecsall/spotiwidget)
 
 
 ## Programming Languages
@@ -68,11 +68,13 @@
 [![Steam](https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/sonnynick/)
 [![Battle.net](https://img.shields.io/badge/Sonny%232807%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white)](https://www.blizzard.com/en-us/)
 
+## Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S0NN1&show_icons=true&bg_color=0d1117&layout=compact&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0NN1&layout=compact&langs_count=8&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S0NN1&layout=compact&langs_count=8&bg_color=0d1117&border_color=0d1117&icon_color=00d26a&title_color=00d26a&text_color=ffffff" />
 </a>
 
 ## Support me
