@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?up_color=green&up_message=online&url=https%3A%2F%2Fnicolosonnino.it)](https://nicolosonnino.it) 
 
 ## About me 
- I am Nicolò, Sonny to my friends. I’m 25 years old and I’m currently studying Computer Science and Engineering at Politecnico di Milano. I really like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my freetime. I read lots of fantasy and science fiction books, my favourite author is H.P. Lovecraft; I also attended two years of drama class at Binario 7 in Monza. 
+ I am Nicolò, Sonny to my friends. 25 years old and working for Schindler Group as a Technical System Integrator for alarm devices. As part of the EIT Digital double master's degree: I studied Computer Science Engineering at Politecnico di Milano and Human-Computer Interaction Design at Paris-Saclay. I like dogs (like my beautiful Australian shepherd named Emma) and I enjoy playing video games during my free time. I read lots of fantasy and science fiction books, my favorite author is H.P. Lovecraft; I also attended two years of drama class at Binario 7 in Monza. 
 
 [![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=21yw4xi3dmb4qpxaurbgijlhq&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=false&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%2300d26a&background=true&background_color=%230d1117)](https://github.com/Hecsall/spotiwidget)
 
